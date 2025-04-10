@@ -1,0 +1,19 @@
+LAB 1 TSC
+Chestii organizatorice
+
+10 laburi -> 3 Fusion -> PCB (tool de modelat placute + tool de ruatre si functionalitate)
+	-> 7 testare -> tot stackul de testare unitare, sistem, integrare, regresie, 
+
+10p laborator (din 100 gen)
+Proiect (in cadrul laboratorului) dupa labul 3, din primele 3 laboratoare ceva de proeictat in Fusion (statie meteo, hbnm) (2 sapt., eventual stam mai mult) -> partea de rutare (gen legi chetsii electrice intre ele) (+ erori si conditii (sa nu pui crstal cuart la piese) NU FOLOSESTI AUTOROUTE)  (o sa traga de noi) 
+proiect -> 20p (minim s-a dat 16p =))) ) la laborator se ajuta/lucreaza  la proiect
+Test de laborator: dupa laboratorul 10 (un fel de colocviu?, la ultimul lab?) - 20p -> moodle dar fizic in sala de curs =)))
+
+la toate astea tre sa ai minim 25 p (gen prag de juamte)
+
+bonus -> 10p pentru implicare lab
+
+vor fi testelor de curs de 30p
+au fost note mici pentru ca nu s-a fost la curs la teste sau ceva de genul...
+
+examen grila pe foaie de 30p 
